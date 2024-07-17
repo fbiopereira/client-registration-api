@@ -1,4 +1,4 @@
-package com.fbiopereira.client_registration_api.core.domain;
+package com.fbiopereira.customer_registration_api.core.domain;
 
 public class Customer {
 

@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.fbiopereira</groupId>
-	<artifactId>client-registration-api</artifactId>
+	<artifactId>customer-registration-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>client-registration-api</name>
-	<description>A Java Springboot API to CRUD a Client (Person) that put in practice Clean Architecture concepts</description>
+	<name>customer-registration-api</name>
+	<description>A Java Springboot API to CRUD a Customer that put in practice Clean Architecture concepts</description>
 	<url/>
 	<licenses>
 		<license/>

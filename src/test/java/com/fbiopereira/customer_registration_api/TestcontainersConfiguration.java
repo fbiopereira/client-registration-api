@@ -1,4 +1,4 @@
-package com.fbiopereira.client_registration_api;
+package com.fbiopereira.customer_registration_api;
 
 import org.springframework.boot.test.context.TestConfiguration;
 import org.springframework.boot.testcontainers.service.connection.ServiceConnection;

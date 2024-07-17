@@ -1,4 +1,4 @@
-package com.fbiopereira.client_registration_api;
+package com.fbiopereira.customer_registration_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
