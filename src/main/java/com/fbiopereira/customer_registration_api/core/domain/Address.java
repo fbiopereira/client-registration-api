@@ -41,4 +41,5 @@ public class Address {
     public String getPostalCode() {
         return postalCode;
     }
+
 }
